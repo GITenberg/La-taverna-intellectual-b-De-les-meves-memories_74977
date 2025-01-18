@@ -1,0 +1,34 @@
+_repo: La-taverna-intellectual-b-De-les-meves-memories_74977
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gener, Pompeyo
+    aliases:
+    - Gener i Babot, Pompeu
+    - Gener, Pompeu
+    birthdate: 1848
+    deathdate: 1920
+    gutenberg_agent_id: '36903'
+    url: http://www.gutenberg.org/2009/agents/36903
+    wikipedia: https://ca.wikipedia.org/wiki/Pompeu_Gener_i_Babot
+description: ''
+gutenberg_issued: '2024-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74977'
+language: ca
+pgterms:marc905: 20241220084654gener
+pgterms:marc906: '1917'
+pgterms:marc907: ES
+production_note: 'editor digital: Joan Queralt Gil'
+publication_note: '  $aBarcelona :$bImp. Rafols, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: La Novela Nova ; 24
+subjects:
+- !lcsh 'Gener, Pompeyo, 1848-1920'
+- !lcc 'PQ'
+- GITenberg
+title: 'La taverna intel·lectual : $b (De les meves memòries)'
+url: http://www.gutenberg.org/ebooks/74977
