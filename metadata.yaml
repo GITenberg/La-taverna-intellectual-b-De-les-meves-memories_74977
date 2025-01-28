@@ -1,5 +1,8 @@
 _repo: La-taverna-intellectual-b-De-les-meves-memories_74977
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74977-h/images/cover.jpg
 creator:
   author:
     agent_name: Gener, Pompeyo
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36903
     wikipedia: https://ca.wikipedia.org/wiki/Pompeu_Gener_i_Babot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74977#La-taverna-intellectual-b-De-les-meves-memories
 gutenberg_issued: '2024-12-26'
 gutenberg_type: Text
 identifiers:
